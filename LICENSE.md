@@ -19,9 +19,7 @@ The dataset used in this project contains various features related to flights, s
 - Duration
 - Total stops
 - Additional information
-
-Ensure the dataset is available in the appropriate directory before running the notebook.
-
+- 
 ## Requirements
 
 To run this project, the following Python libraries are required:
